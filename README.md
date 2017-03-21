@@ -1,3 +1,18 @@
+before everything
+in the coming few days, I'll get rid of all cpp code. And I already get what I need when do this.
+写在开头
+最近我要去掉所有的c加加代码。而且我已经找到我要的功能了。
+
+其他的不用英语写的。
+后面的在游戏内改键的功能我已经大概查到做法了。
+
+2017-03-21
+
+
+
+Read Me:
+
+
 # Shooting-Game-Template-on-UE4
 A template helps developers with the STG development. Western people call this style Bullet Hell Game. Or you can use the geometry functions in your own projects.
 
