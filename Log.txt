@@ -1,0 +1,6 @@
+Update Log
+更新日志
+
+2017-03-22
+Totally remove all cpp code. From now on, there is going to be only a folder named Content. And, there is no limitation to you project's name.
+今天彻底移除了c加加代码。以后就只有一个content文件夹了。再也没有什么能阻止你们使用任何的工程名字了。
