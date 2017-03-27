@@ -1,3 +1,9 @@
+The main geometry BFL is going to be updated in 2 days.
+Expect it.
+2017-03-27
+
+
+
 其他的不用英语写的。
 后面的在游戏内改键的功能我已经大概查到做法了。
 
