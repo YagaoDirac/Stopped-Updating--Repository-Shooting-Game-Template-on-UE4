@@ -1,3 +1,7 @@
+I'm trying the intersection between line and secondary spline.
+Update is in tomorrow.
+2017-03-28
+
 The main geometry BFL is going to be updated in 2 days.
 Expect it.
 2017-03-27

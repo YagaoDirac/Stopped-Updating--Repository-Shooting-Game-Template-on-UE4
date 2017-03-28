@@ -1,0 +1,37 @@
+BFL 2D geometry for STG
+
+keys:
+<(Vector2D)
+component-wise less than.
+return true when all components are less.
+
+Expand:
+will change name into Expand 2D
+
+V2 to Angle:
+return value is within [0,360)
+
+Point Between Parallel Lines:
+2 parallel lines have the same direction. Pay attention to this.
+
+Point Inside Non-axis Aligned Rect:
+The 3 functions are in a series. They receive different parameters but do the same thing.
+
+Segment Intersection(only bool):
+I removed the part calculating the intersection point. If you don't need the actrually point coordinary, use this version to save some efficiency.
+
+Same Sign, Different sign:
+Both are not complex. Read it directly to get further understanding.
+
+Cubic Equation:
+OK, you guys don't see this function.
+(coming soon)
+
+
+
+
+
+
+
+
+
