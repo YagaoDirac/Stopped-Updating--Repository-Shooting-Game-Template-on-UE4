@@ -1,3 +1,6 @@
+Intersection between cubic spline and line is finished!!!!
+2017-03-31（Fri）
+
 Well, sry. Update is delayed. For the coming 清明(qingming) festival, we got 6 day of working this week. For some reason, it's delayed.
 I already figured the equation out. The left part is only implement it in BP.
 2017-03-29
