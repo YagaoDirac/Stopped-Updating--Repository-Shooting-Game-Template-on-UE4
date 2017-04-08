@@ -1,3 +1,7 @@
+It's 8 days. Just now I corrected all the compile problem and the whole project is able to run again. But the behavior of bullets is changed and not has get to a new node yet. If you run the project, only a pawn and a background moving like something make directly by win32 api.
+Next time I update this project is going to be a long time from now, 'cause I'm trying dnd recently. I think it's always benefitting me. The time spent on it will worth.
+2017-04-08
+
 Intersection between cubic spline and line is finished!!!!
 2017-03-31（Fri）
 
@@ -28,14 +32,14 @@ Read Me:
 # Shooting-Game-Template-on-UE4
 A template helps developers with the STG development. Western people call this style Bullet Hell Game. Or you can use the geometry functions in your own projects.
 
-This project is not able to run now.(sorry)
+This project is able to run now.(If not, copy the startercontent folder into this project.)
 Create a blank project in UE4Editor. You can use any version. 4.13 or 14 is recommended.
 
 Good luck. Hope you enjoy it.
 And keep following me.
 
 重要
-而且，这个工程现在是跑不起来的。                         
+现在是可以运行了，如果不行，就拷贝一个startercontent文件夹进来，因为可能有一些是用的里面的。                         
 
 祝 顺利。希望你们喜欢我的工程。
 希望可以继续关注我。
