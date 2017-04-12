@@ -1,3 +1,6 @@
+An undone BFL. I am going to write some function to generate some special shapes. I don't know what it is good at. Maybe useless.
+2017-04-12
+
 It's 8 days. Just now I corrected all the compile problem and the whole project is able to run again. But the behavior of bullets is changed and not has get to a new node yet. If you run the project, only a pawn and a background moving like something make directly by win32 api.
 Next time I update this project is going to be a long time from now, 'cause I'm trying dnd recently. I think it's always benefitting me. The time spent on it will worth.
 2017-04-08
