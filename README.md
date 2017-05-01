@@ -1,3 +1,66 @@
+Read Me:
+
+# Shooting-Game-Template-on-UE4
+
+How to start:
+Double click the STG_Template.uproject
+
+A template helps developers with the STG development. Western people call this style Bullet Hell Game. Or you can use the geometry functions in your own projects.
+
+This project is able to run now.
+4.13 or 14 is recommended.
+
+Good luck. Hope you enjoy it.
+Watches and Stars, THANK YOU.
+
+
+读我：
+
+# Shooting-Game-Template-on-UE4
+# 东方式弹幕游戏开发模板（虚幻4）
+
+开始这个工程：
+双击STG_Template.uproject。
+
+这个模板是帮助大家快速的制作东方式的弹幕游戏的。或者你可以在你自己的工程里面使用我的蓝图函数库。
+
+现在是可以运行了。
+4.13或者4.14是比较推荐的版本。
+
+祝 顺利。
+请在我的项目上点一下Watch和Star，谢谢。
+
+
+Contact me:
+yagaodirac@gamil.com
+
+I check my gmail only 1 or 2 times per month. So, if you send me a mail, plz wait. Maybe i'll increase the frequency if I really get something from you.
+Or, maybe, you can come to tieba.baidu.com to leave me a message.
+https://tieba.baidu.com/p/4936284247?pn=4
+I check this forum at least 2,3 times a week.
+But hope you can succeed in registering. Good luck.
+
+联系我（pen wo）
+
+https://tieba.baidu.com/p/4936284247?pn=4 ，是东方吧的一个帖子，占一个楼，我应该每周都会至少看一次的。以后如果有必要了，再考虑换到其他地方，用别的聊天系统一类的。
+
+yagaodirac 2017-05-01
+
+
+
+***************
+**    LOG    **
+***************
+
++-----Important Start ----------------
+| 今天的要用两个语言写，因为很重要。
+| OK, English comes the first.
+| I selected the files to upload and added the missing files the project needs. Now it works absolutely the same as it works on my own machine. All you need to do is double click the STG_Template.uproject file with an icon of blue UE4 circle button. The engine would prepare the project for you automaticly.
+| 然后是中文。
+| 我把上传的文件好好整理了一下，现在你们可以下载到全部的所需要的文件了，而且整个工程在你的机器上跑的效果和我的是完全一样的。你需要做的就是去双击STG_Template.uproject，就是那个有蓝色的圆形的UE4的图标的文件，然后等着。
+| 2017-05-01
++-----Important End -----------------
+
 An undone BFL. I am going to write some function to generate some special shapes. I don't know what it is good at. Maybe useless.
 2017-04-12
 
@@ -26,41 +89,3 @@ Expect it.
 后面的在游戏内改键的功能我已经大概查到做法了。
 
 2017-03-22
-
-
-
-Read Me:
-
-
-# Shooting-Game-Template-on-UE4
-A template helps developers with the STG development. Western people call this style Bullet Hell Game. Or you can use the geometry functions in your own projects.
-
-This project is able to run now.(If not, copy the startercontent folder into this project.)
-Create a blank project in UE4Editor. You can use any version. 4.13 or 14 is recommended.
-
-Good luck. Hope you enjoy it.
-And keep following me.
-
-重要
-现在是可以运行了，如果不行，就拷贝一个startercontent文件夹进来，因为可能有一些是用的里面的。                         
-
-祝 顺利。希望你们喜欢我的工程。
-希望可以继续关注我。
-
-=
-==yagaodirac@gmail.com==
-=
-I check my gmail only 1 or 2 times per month. So, if you send me a mail, plz wait. Maybe i'll increase the frequency if I really get something from you.
-Or, maybe, you can come to tieba.baidu.com to leave me a message.
-https://tieba.baidu.com/p/4936284247?pn=4
-I check this forum at least 2,3 times a week.
-But hope you can succeed in registering. Good luck.
-=
-==分割线==
-=
-现在主要是在堆一些几何函数，游戏框架的部分暂时没打算去收拾。后面会尽量做得好用一些。
-几何函数的部分尽量用向量写，这样大家可以根据自己的需要来改写成3d的版本。
-希望大家喜欢。
-如果有什么事情想要找到我，在这儿留言的话我可能回得超级慢。你们可以在百度上搜，stg ue4 模板 开发进度( https://tieba.baidu.com/p/4936284247?pn=4 )，是东方吧的一个帖子，占一个楼，我应该每周都会至少看一次的。以后如果有必要了，再考虑换到其他地方，用别的聊天系统一类的。
-
-yagaodirac 2017-03-22
